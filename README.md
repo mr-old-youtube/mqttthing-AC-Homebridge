@@ -1,6 +1,4 @@
 # mqttthing-AC-Homebridge
-Code dieu khien ac qua homebridge
-
 {
             "type": "heaterCooler",
             "name": "Kitchen AC",
@@ -81,7 +79,7 @@ Code dieu khien ac qua homebridge
             ],
             "targetHeaterCoolerValues": [
                 "Auto",
-                "Heat",
+                "Heat"
             ],
             "restrictHeaterCoolerState": [
                 1,
