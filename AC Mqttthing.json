@@ -76,10 +76,6 @@
                 "off",
                 "on"
             ],
-            "targetHeaterCoolerValues": [
-                "Auto",
-                "Heat"
-            ],
             "restrictHeaterCoolerState": [
                 1,
                 2
